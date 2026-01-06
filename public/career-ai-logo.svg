@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80" fill="none">
+  <rect width="320" height="80" rx="12" fill="#0f172a" />
+  <g transform="translate(20,14)">
+    <circle cx="22" cy="22" r="18" fill="#06b6d4" />
+    <path d="M14 22c0-4 3-7 7-7v14c-4 0-7-3-7-7z" fill="#07111a" opacity="0.12" />
+    <g transform="translate(52,8)">
+      <text x="0" y="28" font-family="Inter, Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="600">Career</text>
+      <text x="120" y="28" font-family="Inter, Arial, sans-serif" font-size="28" fill="#06b6d4" font-weight="700">AI</text>
+    </g>
+  </g>
+</svg>
